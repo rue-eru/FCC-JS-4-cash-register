@@ -9,10 +9,6 @@ A cash register application — the fourth project in FreeCodeCamp's JavaScript 
 
 The project only consists of **JavaScript** + **HTML** + **CSS** and was made as a part of FreeCodeCamp's JavaScript Algorithms and Data Structures course.
 
->[My official FCC's Certificate](https://www.freecodecamp.org/certification/fcc058fd235-9bca-44b6-b085-10ee4a9bdda6/javascript-algorithms-and-data-structures-v8)
-
-![Certificate](./public/JavaScript-Algorithms-and-Data-Structures.png)
-
 ---
 
 ## 📋 Project Requirements
@@ -46,7 +42,9 @@ This project fulfills all **9 user stories** from FreeCodeCamp's "Build a Cash R
 
 That one was a living nightmare. It seems FCC's metrics required only one specific way of accepting the requirements so it wasn't really write a code to work it was more like find the appropriate code to apply. I looked tons of videos on Youtube of people who are good at JS trying to pass all the requirements and even they had hard times with it. My local repo has even several js files with all those tries. So it took me the whole December to find the right approach. Though the CSS cash register turned out nicely I think.
 
-![Page Gif](./public/demo.gif)
+| **Cash Register Preview** |
+|---|
+| ![Page Gif](./public/demo.gif) |
 
 <div align="right"><i>submitted to FreeCodeCamp on Dec 30, 2024</i></div>
 
@@ -57,5 +55,6 @@ That one was a living nightmare. It seems FCC's metrics required only one specif
 [![Live Demo](https://img.shields.io/badge/demo-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rue-eru.github.io/FCC-JS-4-cash-register/)
 ---
 
-*Part of my [FreeCodeCamp journey](https://www.freecodecamp.org/certification/fcc058fd235-9bca-44b6-b085-10ee4a9bdda6/javascript-algorithms-and-data-structures-v8)*
-
+| My official [FreeCodeCamp JavaScript Algorithms and Data Structures Certificate](https://www.freecodecamp.org/certification/fcc058fd235-9bca-44b6-b085-10ee4a9bdda6/javascript-algorithms-and-data-structures-v8) |
+|---|
+| ![Certificate](./public/JavaScript-Algorithms-and-Data-Structures.png) |
